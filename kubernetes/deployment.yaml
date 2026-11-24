@@ -20,7 +20,7 @@ spec:
     spec:
       containers:
         - name: nginx
-          image: subhan0807/gitops-nginx:v1
+          image: subhan0807/gitops-demo:v1
 
           ports:
             - containerPort: 80
